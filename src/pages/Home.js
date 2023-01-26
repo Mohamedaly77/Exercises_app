@@ -17,7 +17,7 @@ const Home = () => {
       <Excercises
         setExercises={setExercises}
         bodyPart={bodyPart}
-        setBodyPart={setBodyPart}
+        excerices={exercises}
       />
     </Box>
   );
